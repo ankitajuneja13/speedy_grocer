@@ -1,9 +1,9 @@
 # speedy_grocer
-It is a simulation of e-commerce grocery website title as  “Speedy Grocers”.
-It’s a user-friendly website anyone can easily use it. For buying the item user have to register first.
-After registered on a website you just have to select the products from different categories and add it into the cart. 
-The user can see the cart whenever he/she want and add or delete the item from a cart. Once the user add the item he/she just have to click on checkout and the order get placed as well as corresponding e-mail is sent to the user on its registered id. 
-Along with that it has separate module for admin to manage stock availability, prices and orders.The project is developed using java, servlet, jsp tags and session management.
+- It is a simulation of e-commerce grocery website title as  “Speedy Grocers”.
+- It’s a user-friendly website anyone can easily use it. For buying the item user have to register first.
+- After registered on a website you just have to select the products from different categories and add it into the cart. 
+- The user can see the cart whenever he/she want and add or delete the item from a cart. Once the user add the item he/she just have to click on checkout and the order get placed as well as corresponding e-mail is sent to the user on its registered id. 
+- Along with that it has separate module for admin to manage stock availability, prices and orders.The project is developed using java, servlet, jsp tags and session management.
 
 ![image](https://user-images.githubusercontent.com/60663075/125196240-baa00680-e276-11eb-900d-fc582b585ebd.png)
 ![image](https://user-images.githubusercontent.com/60663075/125196269-e3c09700-e276-11eb-8bdf-33ff705bbaea.png)
